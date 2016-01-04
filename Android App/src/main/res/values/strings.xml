@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jukebox</string>
+    <string name="choose_song">Choose Song</string>
+    <string name="change_ip">Change IP</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="menu">Menu</string>
+    <string name="enter_button">Submit!</string>
+    <string name="progress_bar">Downloading...</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
